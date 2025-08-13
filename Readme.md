@@ -83,7 +83,7 @@ git --version          # Should show Git version
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/fitness-platform.git
+git clone https://github.com/Amir-Golmoradi/fitness-platform.git
 
 # Navigate to the project directory
 cd fitness-platform
